@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/jquery-private.js"],"names":[],"mappings":";;AAAA,OAAO,CAAC,QAAD,CAAP,EAAmB;AAAA,SAAK,EAAE,UAAF,CAAa,IAAb,CAAL;AAAA,CAAnB","file":"jquery-private.js","sourcesContent":["define(['jquery'], $ => $.noConflict(true));\n"]}
